@@ -4,6 +4,8 @@
 
 Me interesa tanto el código como la comunidad alrededor de él: no solo construir herramientas, sino dejar las condiciones para que otras personas se sumen a construirlas.
 
+logros obtenidos : https://github.com/users/VictoriaMolinaC/achievements/pair-extraordinaire
+
 ##  Proyecto destacado
 
 ### [Progreso Sobrio](https://github.com/VictoriaMolinaC/progreso-sobrio)
@@ -19,6 +21,8 @@ Construida 100% offline por diseño: sin backend, sin servidor, sin analytics. T
 ## Con qué trabajo
 
 `AWS` `Inteligencia Artificial Generativa` `Automatización de Procesos` `React` `Next.js` `Node` `TypeScript` `PostgreSQL` `Git` `Python` 
+
+
 
 ## 📫 Contacto
 
